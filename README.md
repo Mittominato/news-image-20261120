@@ -1,9 +1,8 @@
 # The World in One Image — 20 November 2026
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node 22](https://img.shields.io/badge/Node-22-brightgreen.svg)](https://nodejs.org/)
-[![No network](https://img.shields.io/badge/network-none-blue.svg)](#how-it-works)
-[![Deterministic](https://img.shields.io/badge/output-deterministic-orange.svg)](#how-it-works)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Mittominato/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Mittominato/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 An entry for the make.fun bounty
 **[news-image-20261120](https://make.fun/c/news-image-20261120)** —
